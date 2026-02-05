@@ -1,36 +1,83 @@
-# Hi there 👋, I'm Sebas
+# ⚔️ Hi, I'm Shiki!
 
-![header gif](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+> Web Application Pentester · Application Security · Full-Stack & Cloud
 
-## About Me
-I'm a software developer who loves building clean, useful, and fast tools. I enjoy learning new technologies and contributing to open source.
-
-- 🔭 I’m currently working on: AwesomeProject
-- 🌱 I’m learning: Rust and advanced distributed systems
-- 💬 Ask me about: JavaScript, TypeScript, React, Node, and backend design
-- 📫 How to reach me: [email@example.com](mailto:email@example.com) · [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- ⚡ Fun fact: I make coffee as well as code ☕️
-
-## Skills
-- Languages: JavaScript, TypeScript, Python, Rust
-- Frameworks/Libraries: React, Next.js, Node.js, Express
-- Tools: Docker, Git, PostgreSQL, Redis, GitHub Actions, Tests (Jest)
-- DevOps: Docker, CI/CD, basic Kubernetes
-
-## GitHub Stats
-![Sebasalazaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebasalazaro&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasalazaro&layout=compact&theme=radical)
-
-## Projects I’m proud of
-- [AwesomeProject](https://github.com/Sebasalazaro/AwesomeProject) — Short description of what it does and why it’s cool.
-- [AnotherRepo](https://github.com/Sebasalazaro/AnotherRepo) — One-liner about the repo and tech used.
-
-## Quick Links
-[![Website Badge](https://img.shields.io/badge/website-my%20site-4c1?style=flat-square)](https://your-site.example)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?style=flat-square)](https://twitter.com/yourhandle)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Sebas-blue?style=flat-square)](https://linkedin.com/in/your-linkedin)
+<!-- Header GIF (replace URL if you want a different one) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" alt="dark tech anime aesthetic"/>
+</p>
 
 ---
 
-Thanks for visiting my profile — feel free to say hi 👋
+## 🧠 About me
+
+I’m a **Web Application Penetration Tester** with a strong background in **full-stack software development and cloud infrastructure**.
+
+I currently work in a **US-based cybersecurity consulting environment**, performing security assessments for **enterprise and Fortune 500 applications**.  
+Before focusing fully on security, I built and deployed cloud-native web applications end-to-end, which lets me approach pentesting from a **developer’s perspective**.
+
+Outside of work, I’m into **anime, games, and medieval fantasy** — I like systems, worlds, and mechanics, whether they’re digital or fictional.
+
+---
+
+## 🎯 Current focus
+
+- 🔐 Web application & API penetration testing (black-box and grey-box)
+- 🧩 Application Security (AppSec mindset)
+- ☁️ Cloud-native architectures (AWS)
+- 🖥️ Thick-client security testing (currently training)
+- ✍️ Writing clear, developer-friendly security reports
+
+---
+
+## 🛠️ Technical toolbox
+
+### 🔒 Security
+- Web application penetration testing  
+- Authentication, authorization & business-logic testing  
+- Manual request manipulation & vulnerability chaining  
+- Burp Suite Professional  
+
+### 💻 Development
+- Python · JavaScript · TypeScript · C · C#
+- FastAPI · React · REST APIs  
+
+### ☁️ Cloud & DevOps
+- AWS (ECS/Fargate, EC2, S3, DynamoDB, IAM, VPC, CloudWatch)
+- Docker · CI/CD (GitHub Actions)
+
+---
+
+## 🏗️ Projects worth checking out
+
+> *(Some repositories are still WIP or private — more coming soon)*
+
+- 🔒 **Secure Web App Reference**
+  - Cloud-native web application built with security-by-design principles  
+  - Authentication, RBAC, logging, rate-limiting, and CI security checks
+
+- ⚙️ **AppSec CI/CD Pipeline**
+  - GitHub Actions pipeline with SAST, dependency scanning, and container security
+
+- 🧠 **Security Notes & Write-ups**
+  - Personal notes on web security testing, AppSec concepts, and real-world findings
+
+---
+
+## 📊 GitHub activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sebasalazaro&show_icons=true&theme=github_dark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasalazaro&layout=compact&theme=github_dark" height="165"/>
+</p>
+
+---
+
+## 🔗 Find me here
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sebastian-salazar-osorio  
+- 📫 Email: sebasalazaro@gmail.com  
+
+---
+
+> “Security is about understanding systems — sometimes you need to explore the dungeon to find the flaw in the castle walls.”
