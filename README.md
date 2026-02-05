@@ -2,9 +2,9 @@
 
 > Web Application Pentester · Application Security · Full-Stack & Cloud
 
-<!-- Header GIF (replace URL if you want a different one) -->
+<!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="700" alt="dark tech anime aesthetic"/>
+  <img src="assets/anime-hacking.gif" width="700" alt="anime hacking gif"/>
 </p>
 
 ---
