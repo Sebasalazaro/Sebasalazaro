@@ -64,12 +64,13 @@ Outside of work, I’m into **anime, games, and medieval fantasy** — I like sy
 
 ---
 
-## 📊 GitHub activity
+<!--## 📊 GitHub activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sebasalazaro&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasalazaro&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
 </p>
+-->
 
 <!-- Alternative GitHub stats (uncomment if vercel.app is down):
 <p align="center">
