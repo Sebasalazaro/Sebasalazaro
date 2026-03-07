@@ -1,89 +1,218 @@
-# ⚔️ Hi, I'm Shiki!
+<div align="center">
 
-> Web Application Pentester · Application Security · Full-Stack & Cloud
+```
+ ██████╗ ██╗  ██╗██╗██╗  ██╗██╗
+██╔════╝ ██║  ██║██║██║ ██╔╝██║
+╚█████╗  ███████║██║█████╔╝ ██║
+ ╚═══██╗ ██╔══██║██║██╔═██╗ ██║
+██████╔╝ ██║  ██║██║██║  ██╗██║
+╚═════╝  ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝
+```
 
-<!-- Header GIF -->
-<p align="center">
-  <img src="assets/anime-hacking.gif" width="700" alt="anime hacking gif"/>
-</p>
+<img src="assets/anime-hacking.gif" width="680" alt="hacking gif"/>
 
----
+### `> Web Application Pentester · Full-Stack Engineer · AI Systems`
 
-## 🧠 About me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-salazar-osorio)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sebasalazaro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Sebasalazaro)
 
-I’m a **Web Application Penetration Tester** with a strong background in **full-stack software development and cloud infrastructure**.
-
-I currently work in a **US-based cybersecurity consulting environment**, performing security assessments for **enterprise and Fortune 500 applications**.  
-Before focusing fully on security, I built and deployed cloud-native web applications end-to-end, which lets me approach pentesting from a **developer’s perspective**.
-
-Outside of work, I’m into **anime, games, and medieval fantasy** — I like systems, worlds, and mechanics, whether they’re digital or fictional.
-
----
-
-## 🎯 Current focus
-
-- 🔐 Web application & API penetration testing (black-box and grey-box)
-- 🧩 Application Security (AppSec mindset)
-- ☁️ Cloud-native architectures (AWS)
-- 🖥️ Thick-client security testing (currently training)
-- ✍️ Writing clear, developer-friendly security reports
+</div>
 
 ---
 
-## 🛠️ Technical toolbox
+## `whoami`
 
-### 🔒 Security
-- Web application penetration testing  
-- Authentication, authorization & business-logic testing  
-- Manual request manipulation & vulnerability chaining  
-- Burp Suite Professional  
+```python
+shiki = {
+    "role":     "Web Application Security Engineer @ Exfil Security (US · Remote)",
+    "focus":    ["Web & API Pentesting", "AI-Powered Systems", "Cloud-Native Dev"],
+    "origin":   "Colombia 🇨🇴",
+    "mindset":  "I built the castles — now I find the cracks in them.",
+    "off-duty": ["Anime", "Medieval fantasy", "Gaming"],
+}
+```
 
-### 💻 Development
-- Python · JavaScript · TypeScript · C · C#
-- FastAPI · React · REST APIs  
+I'm a **security engineer with a developer's brain**. Before pivoting into AppSec, I designed and shipped full-stack cloud-native applications end-to-end — from architecture to AWS deployment. That background is what makes my pentesting different: I understand how the code actually works, so I know exactly where it breaks.
+
+Currently performing **enterprise web application security assessments** for Fortune 500-scale clients, testing authentication flows, authorization logic, complex API chains, and cloud-native architectures.
+
+---
+
+## `./skills --full`
+
+### 🔐 Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
+![eJPT](https://img.shields.io/badge/eJPT-in_progress-yellow?style=flat-square)
+
+Web application & API pentesting · Authentication & authorization bypass · Business logic testing · Vulnerability chaining · Manual request manipulation · Thick-client testing (training) · Developer-friendly report writing
+
+---
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+
+---
 
 ### ☁️ Cloud & DevOps
-- AWS (ECS/Fargate, EC2, S3, DynamoDB, IAM, VPC, CloudWatch)
-- Docker · CI/CD (GitHub Actions)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+`ECS/Fargate · EC2 · S3 · DynamoDB · Lambda · CloudWatch · IAM · VPC`
 
 ---
 
-## 🏗️ Projects worth checking out
+### 🧠 AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
 
-> *(Some repositories are still WIP or private — more coming soon)*
-
-- 🔒 **Secure Web App Reference**
-  - Cloud-native web application built with security-by-design principles  
-  - Authentication, RBAC, logging, rate-limiting, and CI security checks
-
-- ⚙️ **AppSec CI/CD Pipeline**
-  - GitHub Actions pipeline with SAST, dependency scanning, and container security
-
-- 🧠 **Security Notes & Write-ups**
-  - Personal notes on web security testing, AppSec concepts, and real-world findings
+RAG pipelines · LangGraph · LlamaIndex · Vector databases · LSTM networks · scikit-learn · Fuzzy logic · AI-assisted dev (Claude Code · GitHub Copilot)
 
 ---
 
-## 📊 GitHub activity
+## `ls ./projects`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sebasalazaro&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasalazaro&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
-</p>
+<details>
+<summary><b>🔒 Sentinel — Vulnerability Scanning Platform</b></summary>
+<br>
 
-<!-- Alternative GitHub stats (uncomment if vercel.app is down):
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sebasalazaro&theme=github-dark-blue&hide_border=true" height="165"/>
-</p>
--->
+A security-focused scanning platform built to detect and surface web application vulnerabilities. Designed with an AppSec-first mindset after hands-on pentesting experience with real enterprise targets.
 
----
+`Python` `FastAPI` `Security Tooling`
 
-## 🔗 Find me here
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sebastian-salazar-osorio  
-- 📫 Email: sebasalazaro@gmail.com  
+</details>
 
 ---
 
-> “Security is about understanding systems — sometimes you need to explore the dungeon to find the flaw in the castle walls.”
+<details>
+<summary><b>⚔️ DnD-AI — AI Dungeon Master</b></summary>
+<br>
+
+Over 10 million D&D sessions fail to happen each year — because there's no Dungeon Master. DnD-AI replaces the DM with an AI that generates the story, enemies, and map in real time.
+
+- 🗺️ Real-time map visualization
+- 🎨 AI-generated scene imagery (OpenAI / HuggingFace)
+- 🧠 Natural language action interpretation via Google Gemini
+- ⚔️ Full game loop: characters, combat, inventory, campaigns
+
+`Django` `Python` `Gemini API` `OpenAI API` `LangChain`
+
+</details>
+
+---
+
+<details>
+<summary><b>🏗️ Poneglyph Reduce — Distributed MapReduce System</b></summary>
+<br>
+
+A Hadoop/Spark-inspired MapReduce system built from scratch across three heterogeneous languages. One Piece-themed architecture: **Road-Poneglyph** (Master · Java), **Poneglyph** (Workers · C++), **Clover** (Client · Python).
+
+- 📡 gRPC for Master ↔ Worker communication
+- 🔀 Full shuffle/partition pipeline with hash-based key routing
+- 📊 Real-time React dashboard with MQTT telemetry
+- 🔧 Fault tolerance: task timeouts, worker heartbeats, automatic re-queuing
+- 💾 Redis state persistence
+- 🐳 Full Docker Compose cluster
+
+`Java` `C++` `Python` `React` `TypeScript` `gRPC` `MQTT` `Redis` `Docker`
+
+</details>
+
+---
+
+<details>
+<summary><b>🌍 3D Real Estate Platform</b></summary>
+<br>
+
+Immersive real estate exploration using 3D environments. Users can navigate and interact with properties through a rich visual experience, built with Three.js and Next.js.
+
+`Three.js` `Next.js` `React` `GSAP`
+
+</details>
+
+---
+
+<details>
+<summary><b>📰 Fake News Detection Pipeline</b></summary>
+<br>
+
+Distributed real-time fake news classification using streaming data infrastructure. Ingests articles via Kafka, processes with Spark, and indexes results into OpenSearch.
+
+`Apache Kafka` `Apache Spark` `OpenSearch` `Python` `MLOps`
+
+</details>
+
+---
+
+<details>
+<summary><b>🤖 More Projects</b></summary>
+
+| Project | Stack | Description |
+|---|---|---|
+| **AI Travel Planner** | Python · FastAPI · LLM | AI-powered itinerary generation |
+| **Parking Forecasting** | skforecast · GitHub Actions | Time-series demand prediction with CI/CD |
+| **MLOps Iris Pipeline** | FastAPI · GCP · sklearn | End-to-end ML pipeline on Google Cloud |
+| **E-commerce (Moto Detailing)** | NestJS · Next.js · PlaceToPay | Full store with payment gateway |
+| **BIM Project Management** | Full-Stack | System for electrical engineering firms |
+| **MQTT Broker from Scratch** | C | Custom protocol implementation |
+| **WhatsApp/Messenger Chatbots** | Python · APIs | Automated customer conversation flows |
+
+</details>
+
+---
+
+## `cat ./stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sebasalazaro&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasalazaro&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+
+</div>
+
+---
+
+## `./contact`
+
+| | |
+|---|---|
+| 💼 LinkedIn | [sebastian-salazar-osorio](https://www.linkedin.com/in/sebastian-salazar-osorio) |
+| 📫 Email | [sebasalazaro@gmail.com](mailto:sebasalazaro@gmail.com) |
+| 🌎 Location | Colombia · Open to Remote |
+
+---
+
+<div align="center">
+
+*"Security is about understanding systems — sometimes you need to explore the dungeon to find the flaw in the castle walls."*
+
+</div>
