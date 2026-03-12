@@ -2,7 +2,7 @@
 
 <img src="assets/shiki-banner.svg" width="680" alt="SHIKI"/>
 
-<img src="assets/anime-hacking.gif" width="680" alt="hacking gif"/>
+<img src="assets/anime-hacking.gif" width="544" alt="hacking gif"/>
 
 ### `> Web Application Pentester · Full-Stack Engineer · AI Systems`
 
@@ -19,7 +19,7 @@
 ```python
 shiki = {
     "role":     "Web Application Security Engineer @ Exfil Security (US · Remote)",
-    "focus":    ["Web & API Pentesting", "AI-Powered Systems", "Cloud-Native Dev"],
+    "focus":    ["Web & API Pentesting", "AI-Powered Systems", "Full-Stack Dev"],
     "origin":   "Colombia 🇨🇴",
     "mindset":  "I built the castles — now I find the cracks in them.",
     "off-duty": ["Anime", "Medieval fantasy", "Gaming"],

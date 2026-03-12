@@ -2,7 +2,7 @@
   <defs>
     <clipPath id="c1">
       <rect x="0" y="20" width="0" height="40">
-        <animate attributeName="width" from="0" to="680" dur="1.5s" fill="freeze" begin="0.3s"/>
+        <animate attributeName="width" from="0" to="680" dur="1.2s" fill="freeze" begin="0.3s"/>
       </rect>
     </clipPath>
     <clipPath id="c2">
@@ -24,10 +24,11 @@
       .acc { fill: #39ff14; }
       .sub {
         font-family: 'Courier New', Courier, monospace;
-        font-size: 12px;
-        fill: #484f58;
+        font-size: 13px;
+        fill: #8b949e;
+        letter-spacing: 1px;
         opacity: 0;
-        animation: fi 1s ease-in 4.5s forwards;
+        animation: fi 1s ease-in 4.2s forwards;
       }
       @keyframes fi { to { opacity: 1; } }
     </style>
@@ -36,11 +37,11 @@
   <rect width="680" height="130" fill="#0d1117"/>
 
   <text class="t1" x="40" y="50" clip-path="url(#c1)">
-    <tspan class="acc">&gt; </tspan>Welcome to my GitHub.
+    <tspan class="acc">&gt; </tspan>Welcome! I'm Sebastian.
   </text>
 
   <text class="t2" x="40" y="88" clip-path="url(#c2)">
-    I built the castles &#x2014; now I find the cracks.
+    Security engineer with a developer's brain.
   </text>
 
   <text class="sub" x="340" y="118" text-anchor="middle">
