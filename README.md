@@ -194,8 +194,9 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sebasalazaro&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sebasalazaro&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165"/>
+<div>
+<img src="https://count.getloli.com/get/@Sebasalazaro?theme=rule34" alt="visitor counter" />
+</div>
 
 </div>
 
