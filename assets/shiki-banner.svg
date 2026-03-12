@@ -19,13 +19,13 @@
       .t2 {
         font-family: 'Courier New', Courier, monospace;
         font-size: 22px;
-        fill: #e8d5ba;
+        fill: #7dd3fc;
       }
       .acc { fill: #39ff14; }
       .sub {
         font-family: 'Courier New', Courier, monospace;
         font-size: 12px;
-        fill: #d4a86a;
+        fill: #60a5fa;
         letter-spacing: 1.5px;
         opacity: 0;
         animation: fi 1s ease-in 4.2s forwards;

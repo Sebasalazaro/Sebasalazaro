@@ -6,7 +6,7 @@
 
 <br/>
 
-<sub><b>How to reach me:</b></sub>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;<a href="mailto:sebasalazaro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>&nbsp;&nbsp;<a href="https://github.com/Sebasalazaro"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<p align="center"><b>reach me →</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;<a href="mailto:sebasalazaro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>&nbsp;&nbsp;<a href="https://github.com/Sebasalazaro"><img src="https://skillicons.dev/icons?i=github" height="40"/></a></p>
 
 </div>
 
