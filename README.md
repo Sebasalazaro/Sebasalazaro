@@ -12,7 +12,7 @@
 
 ---
 
-## `whoami`
+## > whoami
 
 ```python
 shiki = {
@@ -33,7 +33,11 @@ When I'm not breaking things, I'm building them. AI-powered systems, 3D web expe
 
 ---
 
-## `./skills --full`
+## ubuntu@sebastian:~$ skills --list-all
+
+<details>
+<summary><b>🔐 Security</b></summary>
+<br>
 
 ### 🔐 Security
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
@@ -43,7 +47,13 @@ When I'm not breaking things, I'm building them. AI-powered systems, 3D web expe
 
 Web application & API pentesting · Authentication & authorization bypass · Business logic testing · Vulnerability chaining · Manual request manipulation · Thick-client testing (training) · Developer-friendly report writing · Syft/Grype (SBOM/CVE scanning) · Prompt injection & jailbreak detection
 
+</details>
+
 ---
+
+<details>
+<summary><b>💻 Languages</b></summary>
+<br>
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +66,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
+</details>
+
 ---
+
+<details>
+<summary><b>⚙️ Backend</b></summary>
+<br>
 
 ### ⚙️ Backend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -66,7 +82,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+</details>
+
 ---
+
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br>
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -83,7 +105,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 `React Three Fiber · shadcn/ui · HeroUI`
 
+</details>
+
 ---
+
+<details>
+<summary><b>🗄️ Databases</b></summary>
+<br>
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -96,7 +124,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
+</details>
+
 ---
+
+<details>
+<summary><b>☁️ Cloud & Infrastructure</b></summary>
+<br>
 
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -110,7 +144,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 `ECS/Fargate · EKS · EC2 · S3 · Lambda · CloudWatch · IAM · VPC · EMR · KMS · Cloud Run · Cloud Build · Cloud Storage`
 
+</details>
+
 ---
+
+<details>
+<summary><b>🧠 AI & ML</b></summary>
+<br>
 
 ### 🧠 AI & ML
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
@@ -123,7 +163,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 `LangGraph · LlamaIndex · Pinecone · RAG pipelines · LSTM networks · SARIMAX · Fuzzy logic (skfuzzy) · Presidio`
 
+</details>
+
 ---
+
+<details>
+<summary><b>📊 Observability</b></summary>
+<br>
 
 ### 📊 Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
@@ -132,13 +178,25 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 `Loki · structlog`
 
+</details>
+
 ---
+
+<details>
+<summary><b>📡 Networking & Protocols</b></summary>
+<br>
 
 ### 📡 Networking & Protocols
 
 `TCP/IP · MQTT · Berkeley Sockets API · RIPv2 · OSPF · PAT/NAT · VLSM · Cisco Packet Tracer`
 
+</details>
+
 ---
+
+<details>
+<summary><b>🛠️ DevOps & CI/CD</b></summary>
+<br>
 
 ### 🛠️ DevOps & CI/CD
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
@@ -147,7 +205,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 `Docker Compose`
 
+</details>
+
 ---
+
+<details>
+<summary><b>🔧 Dev Tools</b></summary>
+<br>
 
 ### 🔧 Dev Tools
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
@@ -156,9 +220,11 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
+</details>
+
 ---
 
-## `ls ./projects`
+## > ls ~/projects
 
 <details>
 <summary><b>🔒 Sentinel — Vulnerability Scanning Platform</b></summary>
@@ -166,7 +232,13 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 A security-focused scanning platform built to detect and surface web application vulnerabilities. Designed with an AppSec-first mindset after hands-on pentesting experience with real enterprise targets.
 
-`Python` `FastAPI` `Security Tooling`
+**Tech Stack:** `Python` `FastAPI` `Security Tooling`
+
+<div align="center">
+  
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/sentinel)
+
+</div>
 
 </details>
 
@@ -183,7 +255,13 @@ Over 10 million D&D sessions fail to happen each year — because there's no Dun
 - 🧠 Natural language action interpretation via Google Gemini
 - ⚔️ Full game loop: characters, combat, inventory, campaigns
 
-`Django` `Python` `Gemini API` `OpenAI API` `LangChain`
+**Tech Stack:** `Django` `Python` `Gemini API` `OpenAI API` `LangChain`
+
+<div align="center">
+  
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/dnd-ai)
+
+</div>
 
 </details>
 
@@ -202,7 +280,13 @@ A Hadoop/Spark-inspired MapReduce system built from scratch across three heterog
 - 💾 Redis state persistence
 - 🐳 Full Docker Compose cluster
 
-`Java` `C++` `Python` `React` `TypeScript` `gRPC` `MQTT` `Redis` `Docker`
+**Tech Stack:** `Java` `C++` `Python` `React` `TypeScript` `gRPC` `MQTT` `Redis` `Docker`
+
+<div align="center">
+  
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/poneglyph-reduce)
+
+</div>
 
 </details>
 
@@ -214,7 +298,13 @@ A Hadoop/Spark-inspired MapReduce system built from scratch across three heterog
 
 Immersive real estate exploration using 3D environments. Users can navigate and interact with properties through a rich visual experience, built with Three.js and Next.js.
 
-`Three.js` `Next.js` `React` `GSAP`
+**Tech Stack:** `Three.js` `Next.js` `React` `GSAP`
+
+<div align="center">
+  
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/3d-real-estate)
+
+</div>
 
 </details>
 
@@ -226,7 +316,13 @@ Immersive real estate exploration using 3D environments. Users can navigate and 
 
 Distributed real-time fake news classification using streaming data infrastructure. Ingests articles via Kafka, processes with Spark, and indexes results into OpenSearch.
 
-`Apache Kafka` `Apache Spark` `OpenSearch` `Python` `MLOps`
+**Tech Stack:** `Apache Kafka` `Apache Spark` `OpenSearch` `Python` `MLOps`
+
+<div align="center">
+  
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/fake-news-detection)
+
+</div>
 
 </details>
 
@@ -249,7 +345,7 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 ---
 
-## `cat ./stats`
+## > cat ~/.stats
 
 <div align="center">
 
@@ -261,7 +357,7 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 ---
 
-## `./contact`
+## > contact --info
 
 | | |
 |---|---|
