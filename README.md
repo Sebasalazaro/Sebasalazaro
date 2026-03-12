@@ -183,7 +183,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 # > projects
 
-<details open>
+<details>
 <summary><b>🔒 Sentinel — Vulnerability Scanning Platform</b></summary>
 
 A security-focused scanning platform built to detect and surface web application vulnerabilities. Designed with an AppSec-first mindset after hands-on pentesting experience with real enterprise targets.
@@ -194,8 +194,8 @@ A security-focused scanning platform built to detect and surface web application
 
 </details>
 
-<details open>
-<summary><b>⚔️ DnD-AI — AI Dungeon Master</b></summary>
+<details>
+<summary><b>⚔️ DnD-AI — AI Dungeon Master (Premios Inventiva Winner!)</b></summary>
 
 Over 10 million D&D sessions fail to happen each year because there's no Dungeon Master. DnD-AI replaces the DM with an AI that generates the story, enemies, and map in real time.
 
@@ -210,7 +210,7 @@ Over 10 million D&D sessions fail to happen each year because there's no Dungeon
 
 </details>
 
-<details open>
+<details>
 <summary><b>🏗️ Poneglyph Reduce — Distributed MapReduce System</b></summary>
 
 A Hadoop/Spark-inspired MapReduce system built from scratch across three heterogeneous languages. One Piece-themed architecture: **Road-Poneglyph** (Master · Java), **Poneglyph** (Workers · C++), **Clover** (Client · Python).
@@ -228,7 +228,7 @@ A Hadoop/Spark-inspired MapReduce system built from scratch across three heterog
 
 </details>
 
-<details open>
+<details>
 <summary><b>🌍 3D Real Estate Platform</b></summary>
 
 Immersive real estate exploration using 3D environments. Users can navigate and interact with properties through a rich visual experience, built with Three.js and Next.js.
@@ -239,7 +239,7 @@ Immersive real estate exploration using 3D environments. Users can navigate and 
 
 </details>
 
-<details open>
+<details>
 <summary><b>📰 Fake News Detection Pipeline</b></summary>
 
 Distributed real-time fake news classification using streaming data infrastructure. Ingests articles via Kafka, processes with Spark, and indexes results into OpenSearch.
@@ -250,7 +250,7 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 </details>
 
-<details open>
+<details>
 <summary><b>🤖 More Projects</b></summary>
 
 | Project | Stack | Description |
