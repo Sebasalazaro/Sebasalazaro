@@ -1,16 +1,10 @@
-<img align="right" width="19%" src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,aws,docker,postgres,tailwind&perline=3"/>
-
 <div align="center">
 
-<img src="assets/shiki-banner.svg" alt="SHIKI"/>
+<img src="assets/shiki-banner.svg" width="100%" alt="SHIKI"/>
 <br/>
-<img src="assets/anime-hacking.gif" width="72%" alt="hacking gif"/>
+<img src="assets/anime-hacking.gif" width="82%" alt="hacking gif"/>
 
-</div>
-
-<br clear="right"/>
-
-<div align="center">
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 &nbsp;&nbsp;&nbsp;
