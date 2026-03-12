@@ -224,7 +224,7 @@ A Hadoop/Spark-inspired MapReduce system built from scratch across three heterog
 
 **Tech Stack:** `Java` `C++` `Python` `React` `TypeScript` `gRPC` `MQTT` `Redis` `Docker`
 
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/poneglyph-reduce)
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/Poneglyph-Reduce)
 
 </details>
 
@@ -246,7 +246,7 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 **Tech Stack:** `Apache Kafka` `Apache Spark` `OpenSearch` `Python` `MLOps`
 
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/fake-news-detection)
+[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/FakeNewsDetection)
 
 </details>
 
