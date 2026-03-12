@@ -2,14 +2,15 @@
 
 <img src="assets/shiki-banner.svg" width="100%" alt="SHIKI"/>
 <br/>
-<img src="assets/anime-hacking.gif" width="82%" alt="hacking gif"/>
+<img src="assets/anime-hacking.gif" width="68%" alt="hacking gif"/>
 
-<br/><br/>
+<br/>
 
+<sub><b>reach me →</b></sub>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:sebasalazaro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 <a href="https://github.com/Sebasalazaro"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 
 </div>
