@@ -37,7 +37,7 @@ When I'm not breaking things, I'm building them. AI-powered systems, 3D web expe
 
 <details open>
 <summary><b>🔐 Security</b></summary>
-<br>
+
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
@@ -49,7 +49,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>💻 Languages</b></summary>
-<br>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -64,7 +64,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>⚙️ Backend</b></summary>
-<br>
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -76,7 +76,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
-<br>
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
@@ -95,7 +95,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>🗄️ Databases</b></summary>
-<br>
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -110,7 +110,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>☁️ Cloud & Infrastructure</b></summary>
-<br>
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -126,7 +126,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>🧠 AI & ML</b></summary>
-<br>
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
@@ -141,7 +141,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>📊 Observability</b></summary>
-<br>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
@@ -152,7 +152,6 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>📡 Networking & Protocols</b></summary>
-<br>
 
 `TCP/IP · MQTT · Berkeley Sockets API · RIPv2 · OSPF · PAT/NAT · VLSM · Cisco Packet Tracer`
 
@@ -160,7 +159,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>🛠️ DevOps & CI/CD</b></summary>
-<br>
+
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -171,7 +170,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>🔧 Dev Tools</b></summary>
-<br>
+
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
@@ -186,25 +185,19 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 <details open>
 <summary><b>🔒 Sentinel — Vulnerability Scanning Platform</b></summary>
-<br>
 
 A security-focused scanning platform built to detect and surface web application vulnerabilities. Designed with an AppSec-first mindset after hands-on pentesting experience with real enterprise targets.
 
 **Tech Stack:** `Python` `FastAPI` `Security Tooling`
 
-<div align="center">
-  
 [![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/sentinel)
-
-</div>
 
 </details>
 
 <details open>
 <summary><b>⚔️ DnD-AI — AI Dungeon Master</b></summary>
-<br>
 
-Over 10 million D&D sessions fail to happen each year — because there's no Dungeon Master. DnD-AI replaces the DM with an AI that generates the story, enemies, and map in real time.
+Over 10 million D&D sessions fail to happen each year because there's no Dungeon Master. DnD-AI replaces the DM with an AI that generates the story, enemies, and map in real time.
 
 - 🗺️ Real-time map visualization
 - 🎨 AI-generated scene imagery (OpenAI / HuggingFace)
@@ -213,17 +206,12 @@ Over 10 million D&D sessions fail to happen each year — because there's no Dun
 
 **Tech Stack:** `Django` `Python` `Gemini API` `OpenAI API` `LangChain`
 
-<div align="center">
-  
 [![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/dnd-ai)
-
-</div>
 
 </details>
 
 <details open>
 <summary><b>🏗️ Poneglyph Reduce — Distributed MapReduce System</b></summary>
-<br>
 
 A Hadoop/Spark-inspired MapReduce system built from scratch across three heterogeneous languages. One Piece-themed architecture: **Road-Poneglyph** (Master · Java), **Poneglyph** (Workers · C++), **Clover** (Client · Python).
 
@@ -236,43 +224,29 @@ A Hadoop/Spark-inspired MapReduce system built from scratch across three heterog
 
 **Tech Stack:** `Java` `C++` `Python` `React` `TypeScript` `gRPC` `MQTT` `Redis` `Docker`
 
-<div align="center">
-  
 [![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/poneglyph-reduce)
-
-</div>
 
 </details>
 
-<details>
+<details open>
 <summary><b>🌍 3D Real Estate Platform</b></summary>
-<br>
 
 Immersive real estate exploration using 3D environments. Users can navigate and interact with properties through a rich visual experience, built with Three.js and Next.js.
 
 **Tech Stack:** `Three.js` `Next.js` `React` `GSAP`
 
-<div align="center">
-  
 [![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/3d-real-estate)
-
-</div>
 
 </details>
 
 <details open>
 <summary><b>📰 Fake News Detection Pipeline</b></summary>
-<br>
 
 Distributed real-time fake news classification using streaming data infrastructure. Ingests articles via Kafka, processes with Spark, and indexes results into OpenSearch.
 
 **Tech Stack:** `Apache Kafka` `Apache Spark` `OpenSearch` `Python` `MLOps`
 
-<div align="center">
-  
 [![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/fake-news-detection)
-
-</div>
 
 </details>
 
