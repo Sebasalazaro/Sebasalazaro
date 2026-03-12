@@ -19,7 +19,7 @@
       .t2 {
         font-family: 'Courier New', Courier, monospace;
         font-size: 22px;
-        fill: #c9d1d9;
+        fill: #e8d5ba;
       }
       .acc { fill: #39ff14; }
       .sub {
