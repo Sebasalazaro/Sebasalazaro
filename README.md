@@ -1,10 +1,23 @@
 <div align="center">
 
-<img src="assets/shiki-banner.svg" width="680" alt="SHIKI"/>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="75%" valign="middle" align="center">
 
-<img src="assets/anime-hacking.gif" width="544" alt="hacking gif"/>
+<img src="assets/shiki-banner.svg" width="100%" alt="SHIKI"/>
+<br/>
+<img src="assets/anime-hacking.gif" width="80%" alt="hacking gif"/>
 
-### `> Web Application Pentester · Full-Stack Engineer · AI Systems`
+</td>
+<td width="25%" valign="middle" align="center">
+
+<sub><b>My main tech stack</b></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,aws,docker,postgres,tailwind&perline=3"/>
+
+</td>
+</tr>
+</table>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-salazar-osorio)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sebasalazaro@gmail.com)
@@ -21,14 +34,17 @@ shiki = {
     "role":     "Web Application Security Engineer @ Exfil Security (US · Remote)",
     "focus":    ["Web & API Pentesting", "AI-Powered Systems", "Full-Stack Dev"],
     "origin":   "Colombia 🇨🇴",
-    "mindset":  "I built the castles — now I find the cracks in them.",
-    "off-duty": ["Anime", "Medieval fantasy", "Gaming"],
+    "mindset":  "I know how it's built. That's why I know how it breaks.",
+    "off-duty": ["Anime", "Medieval fantasy", "Gacha Gaming"],
+    "crafts":   ["Clean UIs that actually feel good to use", "Systems that scale", "Code that doesn't embarrass me"],
 }
 ```
 
-I'm a **security engineer with a developer's brain**. Before pivoting into AppSec, I designed and shipped full-stack cloud-native applications end-to-end — from architecture to AWS deployment. That background is what makes my pentesting different: I understand how the code actually works, so I know exactly where it breaks.
+I'm a **security engineer with a developer's brain** — and a designer's eye. Before moving into AppSec, I designed and shipped full-stack cloud-native applications end-to-end: architecture, backend, frontend, AWS deployment, the whole thing. That background is what makes my pentesting different: I don't just find the cracks, I understand exactly why they exist.
 
-Currently performing **enterprise web application security assessments** for Fortune 500-scale clients, testing authentication flows, authorization logic, complex API chains, and cloud-native architectures.
+Currently performing **enterprise web application security assessments** — testing authentication flows, authorization logic, complex API chains, and cloud-native architectures across modern web stacks.
+
+When I'm not breaking things, I'm building them. AI-powered systems, 3D web experiences, polished UIs. I care about how things look and feel as much as how they work.
 
 ---
 
