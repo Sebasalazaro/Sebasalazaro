@@ -1,27 +1,22 @@
+<img align="right" width="19%" src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,aws,docker,postgres,tailwind&perline=3"/>
+
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tr>
-<td width="75%" valign="middle" align="center">
-
-<img src="assets/shiki-banner.svg" width="100%" alt="SHIKI"/>
+<img src="assets/shiki-banner.svg" alt="SHIKI"/>
 <br/>
-<img src="assets/anime-hacking.gif" width="80%" alt="hacking gif"/>
+<img src="assets/anime-hacking.gif" width="72%" alt="hacking gif"/>
 
-</td>
-<td width="25%" valign="middle" align="center">
+</div>
 
-<sub><b>My main tech stack</b></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=python,ts,react,nodejs,fastapi,aws,docker,postgres,tailwind&perline=3"/>
+<br clear="right"/>
 
-</td>
-</tr>
-</table>
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-salazar-osorio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sebasalazaro@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/Sebasalazaro)
+<a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:sebasalazaro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/Sebasalazaro"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
 
 </div>
 
