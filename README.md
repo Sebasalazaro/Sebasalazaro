@@ -19,21 +19,21 @@ shiki = {
     "role":     "Web Application Security Engineer @ Exfil Security (US · Remote)",
     "focus":    ["Web & API Pentesting", "AI-Powered Systems", "Full-Stack Dev"],
     "origin":   "Colombia 🇨🇴",
-    "mindset":  "I know how it's built. That's why I know how it breaks.",
-    "off-duty": ["Anime", "Medieval fantasy", "Gacha Gaming"],
+    "mindset":  "I love to build stuff that makes the people feel good.",
+    "off-duty": ["Anime", "Gacha Gaming", "Movies", "Medieval fantasy"],
     "crafts":   ["Clean UIs that actually feel good to use", "Systems that scale", "Code that doesn't embarrass me"],
 }
 ```
 
-I'm a **security engineer with a developer's brain** — and a designer's eye. Before moving into AppSec, I designed and shipped full-stack cloud-native applications end-to-end: architecture, backend, frontend, AWS deployment, the whole thing. That background is what makes my pentesting different: I don't just find the cracks, I understand exactly why they exist.
+I'm a **security engineer with a developer's brain** — and a designer's eye. Before moving into AppSec, I designed and shipped full-stack cloud-native applications end-to-end: architecture, backend, frontend, AWS deployment, the whole thing. I'm trying to get as complete as a software engineer can be, covering all the sides of the developing environment as possible.
 
 Currently performing **enterprise web application security assessments** — testing authentication flows, authorization logic, complex API chains, and cloud-native architectures across modern web stacks.
 
-When I'm not breaking things, I'm building them. AI-powered systems, 3D web experiences, polished UIs. I care about how things look and feel as much as how they work.
+When I'm not breaking stuff, I'm building it. Systems that solve problems, 3D web experiences, polished UIs. I care about how things look and feel as much as how they work.
 
 ---
 
-# > skills
+# > Skills
 
 <details open>
 <summary><b>🔐 Security</b></summary>
@@ -58,7 +58,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>⚙️ Backend</b></summary>
 
 <p align="left">
@@ -67,7 +67,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>🎨 Frontend</b></summary>
 
 <p align="left">
@@ -83,7 +83,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>🗄️ Databases</b></summary>
 
 <p align="left">
@@ -96,7 +96,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>☁️ Cloud & Infrastructure</b></summary>
 
 <p align="left">
@@ -111,7 +111,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>🧠 AI & ML</b></summary>
 
 <p align="left">
@@ -130,7 +130,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>📊 Observability</b></summary>
 
 <p align="left">
@@ -145,14 +145,14 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>📡 Networking & Protocols</b></summary>
 
 `TCP/IP · MQTT · Berkeley Sockets API · RIPv2 · OSPF · PAT/NAT · VLSM · Cisco Packet Tracer`
 
 </details>
 
-<details open>
+<details closed>
 <summary><b>🛠️ DevOps & CI/CD</b></summary>
 
 <p align="left">
@@ -181,7 +181,7 @@ Web application & API pentesting · Authentication & authorization bypass · Bus
 
 ---
 
-# > projects
+# > Projects
 
 <details>
 <summary><b>🔒 Sentinel — Vulnerability Scanning Platform</b></summary>
@@ -267,7 +267,7 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 ---
 
-# > stats
+# > Stats
 
 <div align="center">
 
@@ -279,7 +279,7 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 ---
 
-# > contact
+# > Contact me!
 
 | | |
 |---|---|
@@ -291,6 +291,6 @@ Distributed real-time fake news classification using streaming data infrastructu
 
 <div align="center">
 
-*"Security is about understanding systems — sometimes you need to explore the dungeon to find the flaw in the castle walls."*
+*"It would be such a waist to worry yourself on a day like this"*
 
 </div>
