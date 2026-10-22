@@ -1,296 +1,67 @@
 <div align="center">
 
-<img src="assets/shiki-banner.svg" width="100%" alt="SHIKI"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" width="100%" alt="shiki@OS:~$ ./getProfile --user shiki — Welcome, I'm Sebastian. Security engineer with a developer's brain.">
+</picture>
+
+<p></p>
+
+<a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white" width="151" height="38" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:sebasalazaro@gmail.com"><img src="https://img.shields.io/badge/Email-6b47d6?style=for-the-badge&logo=gmail&logoColor=white" width="116" height="38" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Colombia_·_Remote-14213d?style=for-the-badge&logo=googlemaps&logoColor=white" width="247" height="38" alt="Colombia, remote"/>
+
+</div>
+
+## `> whoami`
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/whoami-dark.svg"><img src="assets/whoami-light.svg" width="60.5%" alt="whoami: Sebastian Salazar, Cybersecurity Engineer @Exfil. Focus: Web &amp; API Pentesting, AI Systems, Full-Stack. Mindset: Make people feel good with the stuff I build! AFK: Anime, Gacha, Movies, Fantasy Worlds."/></picture><img src="assets/anime-hacking.gif" width="39.4%" alt="Yuki Nagato typing on a laptop"/>
+
+A **security engineer with a developer's brain** and a designer's eye. By day I break enterprise web apps and APIs: auth flows, authorization logic, long API chains. The rest of the time I build things that look and feel good.
+
+## `> arsenal`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,rust,java,cpp,react,nextjs,svelte,threejs,tailwind,fastapi,nestjs,django,postgres,supabase,redis,docker,aws,gcp,cloudflare&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,ts,rust,java,cpp,react,nextjs,svelte,threejs,tailwind,fastapi,nestjs,django,postgres,supabase,redis,docker,aws,gcp,cloudflare&perline=10&theme=light" alt="Python, TypeScript, Rust, Java, C++, React, Next.js, Svelte, Three.js, Tailwind, FastAPI, NestJS, Django, Postgres, Supabase, Redis, Docker, AWS, GCP, Cloudflare"/>
+</picture>
+
+**🔐 Security:** web, API, mobile & thick-client pentesting · authn/authz bypass · business logic · vulnerability chaining · prompt injection · Burp Suite Pro
+
+<details>
+<summary><b>full inventory</b></summary>
 <br/>
-<img src="assets/anime-hacking.gif" width="68%" alt="hacking gif"/>
-
-<br/>
-
-<p align="center"><b>reach me →</b>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sebastian-salazar-osorio"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>&nbsp;&nbsp;<a href="mailto:sebasalazaro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>&nbsp;&nbsp;<a href="https://github.com/Sebasalazaro"><img src="https://skillicons.dev/icons?i=github" height="40"/></a></p>
-
-</div>
-
----
-
-# > whoami
-
-```python
-shiki = {
-    "role":     "Web Application Security Engineer @ Exfil Security (US · Remote)",
-    "focus":    ["Web & API Pentesting", "AI-Powered Systems", "Full-Stack Dev"],
-    "origin":   "Colombia 🇨🇴",
-    "mindset":  "I love to build stuff that makes the people feel good.",
-    "off-duty": ["Anime", "Gacha Gaming", "Movies", "Medieval fantasy"],
-    "crafts":   ["Clean UIs that actually feel good to use", "Systems that scale", "Code that doesn't embarrass me"],
-}
-```
-
-I'm a **security engineer with a developer's brain** — and a designer's eye. Before moving into AppSec, I designed and shipped full-stack cloud-native applications end-to-end: architecture, backend, frontend, AWS deployment, the whole thing. I'm trying to get as complete as a software engineer can be, covering all the sides of the developing environment as possible.
-
-Currently performing **enterprise web application security assessments** — testing authentication flows, authorization logic, complex API chains, and cloud-native architectures across modern web stacks.
-
-When I'm not breaking stuff, I'm building it. Systems that solve problems, 3D web experiences, polished UIs. I care about how things look and feel as much as how they work.
-
----
-
-# > Skills
-
-<details open>
-<summary><b>🔐 Security</b></summary>
-
-**Core tooling**
-
-![Burp Suite](https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![eJPT](https://img.shields.io/badge/eJPT-in_progress-yellow?style=flat-square)
-
-Web application & API pentesting · Authentication & authorization bypass · Business logic testing · Vulnerability chaining · Manual request manipulation · Thick-client testing (training) · Developer-friendly report writing · Syft/Grype (SBOM/CVE scanning) · Prompt injection & jailbreak detection
-
-</details>
-
-<details open>
-<summary><b>💻 Languages</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=py,ts,js,cs,java,c,cpp,arduino,r&perline=9" />
-</p>
-
-</details>
-
-<details closed>
-<summary><b>⚙️ Backend</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,nestjs,express,nodejs&perline=6" />
-</p>
-
-</details>
-
-<details closed>
-<summary><b>🎨 Frontend</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vite,threejs,tailwind,materialui,html,css&perline=9" />
-</p>
-
-**Also using**
-
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-`React Three Fiber · shadcn/ui · HeroUI`
-
-</details>
-
-<details closed>
-<summary><b>🗄️ Databases</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,dynamodb,supabase,redis,prisma&perline=8" />
-</p>
-
-**Also using**
-
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
-
-</details>
-
-<details closed>
-<summary><b>☁️ Cloud & Infrastructure</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,terraform,ansible,vercel&perline=7" />
-</p>
-
-**Also using**
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
-
-`ECS/Fargate · EKS · EC2 · S3 · Lambda · CloudWatch · IAM · VPC · EMR · KMS · Cloud Run · Cloud Build · Cloud Storage`
-
-</details>
-
-<details closed>
-<summary><b>🧠 AI & ML</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=kafka,sklearn&perline=6" />
-</p>
-
-**Also using**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-
-`LangGraph · LlamaIndex · Pinecone · RAG pipelines · LSTM networks · SARIMAX · Fuzzy logic (skfuzzy) · Presidio`
-
-</details>
-
-<details closed>
-<summary><b>📊 Observability</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=6" />
-</p>
-
-**Also using**
-
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white)
-
-`Loki · structlog`
-
-</details>
-
-<details closed>
-<summary><b>📡 Networking & Protocols</b></summary>
-
-`TCP/IP · MQTT · Berkeley Sockets API · RIPv2 · OSPF · PAT/NAT · VLSM · Cisco Packet Tracer`
-
-</details>
-
-<details closed>
-<summary><b>🛠️ DevOps & CI/CD</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=githubactions,git,linux&perline=6" />
-</p>
-
-`Docker Compose`
-
-</details>
-
-<details open>
-<summary><b>🔧 Dev Tools</b></summary>
-
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=postman&perline=6" />
-</p>
-
-**Also using**
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-
-</details>
-
----
-
-# > Projects
-
-<details>
-<summary><b>🔒 Sentinel — Vulnerability Scanning Platform</b></summary>
-
-A security-focused scanning platform built to detect and surface web application vulnerabilities. Designed with an AppSec-first mindset after hands-on pentesting experience with real enterprise targets.
-
-**Tech Stack:** `Python` `FastAPI` `Security Tooling`
-
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/sentinel)
-
-</details>
-
-<details>
-<summary><b>⚔️ DnD-AI — AI Dungeon Master (Premios Inventiva Winner!)</b></summary>
-
-Over 10 million D&D sessions fail to happen each year because there's no Dungeon Master. DnD-AI replaces the DM with an AI that generates the story, enemies, and map in real time.
-
-- 🗺️ Real-time map visualization
-- 🎨 AI-generated scene imagery (OpenAI / HuggingFace)
-- 🧠 Natural language action interpretation via Google Gemini
-- ⚔️ Full game loop: characters, combat, inventory, campaigns
-
-**Tech Stack:** `Django` `Python` `Gemini API` `OpenAI API` `LangChain`
-
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/dnd-ai)
-
-</details>
-
-<details>
-<summary><b>🏗️ Poneglyph Reduce — Distributed MapReduce System</b></summary>
-
-A Hadoop/Spark-inspired MapReduce system built from scratch across three heterogeneous languages. One Piece-themed architecture: **Road-Poneglyph** (Master · Java), **Poneglyph** (Workers · C++), **Clover** (Client · Python).
-
-- 📡 gRPC for Master ↔ Worker communication
-- 🔀 Full shuffle/partition pipeline with hash-based key routing
-- 📊 Real-time React dashboard with MQTT telemetry
-- 🔧 Fault tolerance: task timeouts, worker heartbeats, automatic re-queuing
-- 💾 Redis state persistence
-- 🐳 Full Docker Compose cluster
-
-**Tech Stack:** `Java` `C++` `Python` `React` `TypeScript` `gRPC` `MQTT` `Redis` `Docker`
-
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/Poneglyph-Reduce)
-
-</details>
-
-<details>
-<summary><b>🌍 3D Real Estate Platform</b></summary>
-
-Immersive real estate exploration using 3D environments. Users can navigate and interact with properties through a rich visual experience, built with Three.js and Next.js.
-
-**Tech Stack:** `Three.js` `Next.js` `React` `GSAP`
-
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/3d-real-estate)
-
-</details>
-
-<details>
-<summary><b>📰 Fake News Detection Pipeline</b></summary>
-
-Distributed real-time fake news classification using streaming data infrastructure. Ingests articles via Kafka, processes with Spark, and indexes results into OpenSearch.
-
-**Tech Stack:** `Apache Kafka` `Apache Spark` `OpenSearch` `Python` `MLOps`
-
-[![View Code](https://img.shields.io/badge/⚡_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sebasalazaro/FakeNewsDetection)
-
-</details>
-
-<details>
-<summary><b>🤖 More Projects</b></summary>
-
-| Project | Stack | Description |
-|---|---|---|
-| **AI Travel Planner** | Python · FastAPI · LLM | AI-powered itinerary generation |
-| **Parking Forecasting** | skforecast · GitHub Actions | Time-series demand prediction with CI/CD |
-| **MLOps Iris Pipeline** | FastAPI · GCP · sklearn | End-to-end ML pipeline on Google Cloud |
-| **E-commerce (Moto Detailing)** | NestJS · Next.js · PlaceToPay | Full store with payment gateway |
-| **BIM Project Management** | Full-Stack | System for electrical engineering firms |
-| **MQTT Broker from Scratch** | C | Custom protocol implementation |
-| **WhatsApp/Messenger Chatbots** | Python · APIs | Automated customer conversation flows |
-
-</details>
-
----
-
-# > Stats
-
-<div align="center">
-
-<div>
-<img src="https://count.getloli.com/get/@Sebasalazaro?theme=rule34" alt="visitor counter" />
-</div>
-
-</div>
-
----
-
-# > Contact me!
 
 | | |
 |---|---|
-| 💼 LinkedIn | [sebastian-salazar-osorio](https://www.linkedin.com/in/sebastian-salazar-osorio) |
-| 📫 Email | [sebasalazaro@gmail.com](mailto:sebasalazaro@gmail.com) |
-| 🌎 Location | Colombia · Open to Remote |
+| **Languages** | Python · TypeScript · JavaScript · Rust · C# · Java · C · C++ · R |
+| **Frontend** | React · Next.js · Angular · Svelte · Three.js / R3F · GSAP · Framer Motion · Tailwind |
+| **Backend** | FastAPI · Django · Flask · NestJS · Express · gRPC |
+| **Data** | Postgres · MongoDB · MySQL · SQLite · DynamoDB · Supabase · Redis · Prisma · BigQuery |
+| **Cloud & Ops** | AWS (ECS, EKS, Lambda, S3, IAM, VPC, KMS) · GCP (Cloud Run, Cloud Build) · Cloudflare (Workers, D1, R2, Durable Objects, Images, Turnstile) · Docker · Kubernetes · Terraform · Helm · GitHub Actions |
+| **AI & Data** | LangChain · LangGraph · LlamaIndex · RAG · OpenAI · Anthropic · Kafka · Spark · scikit-learn · spaCy · Presidio |
+| **Observability** | Prometheus · Grafana · Loki · OpenSearch |
+| **Networking** | TCP/IP · MQTT · sockets · OSPF · RIPv2 · NAT/PAT · VLSM |
 
----
+</details>
+
+## `> projects`
+
+<a href="https://shirouday.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/shirou-day-dark.svg"><img src="assets/cards/shirou-day-light.svg" width="50%" alt="Shirou Day: shirouday.com"/></picture></a><a href="https://github.com/Sebasalazaro/redactor"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/redactor-dark.svg"><img src="assets/cards/redactor-light.svg" width="50%" alt="redactor: pentest traffic, safe for LLMs"/></picture></a><br/><a href="https://github.com/Sebasalazaro/DnD-AI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/dnd-ai-dark.svg"><img src="assets/cards/dnd-ai-light.svg" width="50%" alt="DnD-AI: an AI dungeon master, EAFIT Inventiva winner"/></picture></a><a href="https://recocha.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/cards/recocha-dark.svg"><img src="assets/cards/recocha-light.svg" width="50%" alt="Recocha: recocha.app"/></picture></a>
+
+**Client Work**
+
+- **Real estate presale platforms (×2):** scroll-driven sites with 3D scenes, unit explorers, 360° tours and lead capture, built so investors can walk a residential project from anywhere.
+- **ChupoStore:** e-commerce for a paint-removal brand. Next.js + NestJS monorepo with PlaceToPay checkout and server-to-server payment verification.
+- **DMOps:** project management platform for an electrical design firm: projects, milestones, tasks, teams and roles.
+
+**More** · [Poneglyph Reduce](https://github.com/Sebasalazaro/Poneglyph-Reduce) · [Sentinel](https://github.com/Sebasalazaro/Sentinel) · [vigilante](https://github.com/Sebasalazaro/vigilante) · [wikiria](https://github.com/Sebasalazaro/wikiria) · [FakeNewsDetection](https://github.com/Sebasalazaro/FakeNewsDetection)
 
 <div align="center">
+<br/>
 
-*"It would be such a waist to worry yourself on a day like this"*
+*"It would be such a waste to worry yourself on a day like this."*
+
+<img src="https://count.getloli.com/get/@Sebasalazaro?theme=rule34" alt="visitor counter" />
 
 </div>
