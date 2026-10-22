@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 454 240" width="454" height="240" role="img" aria-label="redactor: pentest traffic, safe for LLMs">
+  <defs>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#7cc0ff"/><stop offset="1" stop-color="#b49cff"/></linearGradient>
+    <style>
+      text { font-family: 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace; }
+      .kicker { font-size: 11px; fill: #8391a8; letter-spacing: 1.5px; }
+      .name { font-size: 20px; font-weight: 700; fill: #e3e9f5; }
+      .tagline { font-size: 13px; fill: #7cc0ff; }
+      .desc { font-size: 12px; fill: #8391a8; }
+      .stack { font-size: 11px; fill: #b49cff; }
+      .badge { font-size: 11px; font-weight: 700; fill: #d4c8ff; letter-spacing: .5px; }
+    </style>
+  </defs>
+  <g transform="translate(12 12)">
+  <rect x=".5" y=".5" width="429" height="215" rx="12" fill="#0b1220" stroke="#22304a"/>
+  <rect x="26" y="0" width="56" height="3" rx="1.5" fill="url(#edge)"/>
+
+  <text class="kicker" x="26" y="34">SECURITY · TOOLING</text>
+  <text class="name" x="26" y="63">redactor</text>
+  <text class="tagline" x="26" y="85">pentest traffic, safe for LLMs</text>
+  <text class="desc" x="26" y="114">Sanitizes Burp, HAR and raw HTTP fully offline,</text>
+  <text class="desc" x="26" y="134">keeping enough structure for the model to still</text>
+  <text class="desc" x="26" y="154">reason about it.</text>
+  <line x1="26" y1="176" x2="404" y2="176" stroke="#22304a"/>
+  <text class="stack" x="26" y="198">Rust · Tauri · Svelte · ONNX</text>
+
+  <rect x="303.7" y="20" width="100.3" height="22" rx="11" fill="#16233b" stroke="#22304a"/>
+  <text class="badge" x="353.9" y="35" text-anchor="middle">OPEN SOURCE</text>
+
+  </g>
+</svg>

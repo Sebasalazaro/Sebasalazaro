@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250" role="img" aria-label="shiki@OS terminal: ./getProfile --user shiki. Welcome, I'm Sebastian. Security engineer with a developer's brain.">
+  <defs>
+    <clipPath id="win"><rect x="1" y="1" width="878" height="248" rx="14"/></clipPath>
+    <style>
+      text { font-family: 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace; }
+      .title { font-size: 12px; fill: #8391a8; }
+      .cmd { font-size: 15px; }
+      .big { font-size: 28px; font-weight: 700; fill: #e3e9f5; }
+      .sub { font-size: 17px; fill: #7cc0ff; }
+      .tags { font-size: 12px; fill: #8391a8; letter-spacing: 1.5px; }
+      .ready { font-size: 15px; fill: #d4c8ff; }
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect width="880" height="250" fill="#0b1220"/>
+    <rect width="880" height="34" fill="#111b2e"/>
+  </g>
+  <rect x="1" y="1" width="878" height="248" rx="14" fill="none" stroke="#22304a"/>
+
+  <circle cx="24" cy="18" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="18" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="18" r="6" fill="#28c840"/>
+  <text class="title" x="440" y="22" text-anchor="middle">shiki@OS: ~ GitHub Terminal</text>
+
+  <text class="cmd" x="36" y="80"><tspan fill="#b49cff">shiki@OS</tspan><tspan fill="#8391a8">:</tspan><tspan fill="#7cc0ff">~</tspan><tspan fill="#8391a8">$ </tspan><tspan fill="#e3e9f5" font-weight="700">./getProfile</tspan><tspan fill="#8391a8"> --user </tspan><tspan fill="#7cc0ff">shiki</tspan></text>
+  <text class="big" x="36" y="126">Welcome, I'm Sebastian.</text>
+  <text class="sub" x="36" y="160">security engineer with a developer's brain</text>
+  <text class="tags" x="36" y="192">PENTESTING · FULL-STACK · AI SYSTEMS · COLOMBIA</text>
+  <text class="ready" x="36" y="224">ready? (y/n)</text>
+  <rect class="cursor" x="148" y="211" width="9" height="16" fill="#d4c8ff"/>
+</svg>

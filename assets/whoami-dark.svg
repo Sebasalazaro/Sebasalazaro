@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 698 256" width="698" height="256" role="img" aria-label="whoami: Sebastian Salazar, Cybersecurity Engineer at Exfil. Focus: web and API pentesting, AI systems, full-stack. Mindset: make people feel good with the stuff I build. AFK: anime, gacha, movies, fantasy worlds.">
+  <defs>
+    <style>text { font-family: 'JetBrains Mono','SF Mono','Cascadia Code',Consolas,Menlo,'DejaVu Sans Mono',monospace; font-size: 17px; white-space: pre; }</style>
+  </defs>
+  <rect x=".5" y=".5" width="681" height="255" rx="12" fill="#0b1220" stroke="#22304a"/>
+  <text x="28" y="38" xml:space="preserve"><tspan fill="#8391a8"></tspan><tspan fill="#e3e9f5">shiki</tspan><tspan fill="#8391a8"> = {</tspan></text>
+  <text x="28" y="66" xml:space="preserve"><tspan fill="#8391a8">    </tspan><tspan fill="#b49cff">"name"</tspan><tspan fill="#8391a8">:    </tspan><tspan fill="#7cc0ff">"Sebastian Salazar"</tspan><tspan fill="#8391a8">,</tspan></text>
+  <text x="28" y="92" xml:space="preserve"><tspan fill="#8391a8">    </tspan><tspan fill="#b49cff">"role"</tspan><tspan fill="#8391a8">:    </tspan><tspan fill="#7cc0ff">"Cybersecurity Engineer @Exfil"</tspan><tspan fill="#8391a8">,</tspan></text>
+  <text x="28" y="120" xml:space="preserve"><tspan fill="#8391a8">    </tspan><tspan fill="#b49cff">"focus"</tspan><tspan fill="#8391a8">:   [</tspan><tspan fill="#7cc0ff">"Web &amp; API Pentesting"</tspan><tspan fill="#8391a8">,</tspan></text>
+  <text x="28" y="146" xml:space="preserve"><tspan fill="#8391a8">                </tspan><tspan fill="#7cc0ff">"AI Systems"</tspan><tspan fill="#8391a8">, </tspan><tspan fill="#7cc0ff">"Full-Stack"</tspan><tspan fill="#8391a8">],</tspan></text>
+  <text x="28" y="174" xml:space="preserve"><tspan fill="#8391a8">    </tspan><tspan fill="#b49cff">"mindset"</tspan><tspan fill="#8391a8">: </tspan><tspan fill="#7cc0ff">"Make people feel good with the stuff I build!"</tspan><tspan fill="#8391a8">,</tspan></text>
+  <text x="28" y="200" xml:space="preserve"><tspan fill="#8391a8">    </tspan><tspan fill="#b49cff">"afk"</tspan><tspan fill="#8391a8">:     [</tspan><tspan fill="#7cc0ff">"Anime"</tspan><tspan fill="#8391a8">, </tspan><tspan fill="#7cc0ff">"Gacha"</tspan><tspan fill="#8391a8">, </tspan><tspan fill="#7cc0ff">"Movies"</tspan><tspan fill="#8391a8">, </tspan><tspan fill="#7cc0ff">"Fantasy Worlds"</tspan><tspan fill="#8391a8">],</tspan></text>
+  <text x="28" y="228" xml:space="preserve"><tspan fill="#8391a8">}</tspan></text>
+</svg>
