@@ -22,8 +22,8 @@ A **security engineer with a developer's brain** and a designer's eye. By day I 
 ## `> arsenal`
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,rust,java,cpp,react,nextjs,svelte,threejs,tailwind,fastapi,nestjs,django,postgres,supabase,redis,docker,aws,gcp,cloudflare&perline=10&theme=dark">
-  <img src="https://skillicons.dev/icons?i=py,ts,rust,java,cpp,react,nextjs,svelte,threejs,tailwind,fastapi,nestjs,django,postgres,supabase,redis,docker,aws,gcp,cloudflare&perline=10&theme=light" alt="Python, TypeScript, Rust, Java, C++, React, Next.js, Svelte, Three.js, Tailwind, FastAPI, NestJS, Django, Postgres, Supabase, Redis, Docker, AWS, GCP, Cloudflare"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Crust%2Cjava%2Ccpp%2Creact%2Cnextjs%2Csvelte%2Cthreejs%2Ctailwind%2Cfastapi%2Cnestjs%2Cdjango%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Caws%2Cgcp%2Ccloudflare&perline=10&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py%2Cts%2Crust%2Cjava%2Ccpp%2Creact%2Cnextjs%2Csvelte%2Cthreejs%2Ctailwind%2Cfastapi%2Cnestjs%2Cdjango%2Cpostgres%2Csupabase%2Credis%2Cdocker%2Caws%2Cgcp%2Ccloudflare&perline=10&theme=light" alt="Python, TypeScript, Rust, Java, C++, React, Next.js, Svelte, Three.js, Tailwind, FastAPI, NestJS, Django, Postgres, Supabase, Redis, Docker, AWS, GCP, Cloudflare"/>
 </picture>
 
 **🔐 Security:** web, API, mobile & thick-client pentesting · authn/authz bypass · business logic · vulnerability chaining · prompt injection · Burp Suite Pro
@@ -32,7 +32,7 @@ A **security engineer with a developer's brain** and a designer's eye. By day I 
 <summary><b>full inventory</b></summary>
 <br/>
 
-| | |
+| Area | Stack |
 |---|---|
 | **Languages** | Python · TypeScript · JavaScript · Rust · C# · Java · C · C++ · R |
 | **Frontend** | React · Next.js · Angular · Svelte · Three.js / R3F · GSAP · Framer Motion · Tailwind |
