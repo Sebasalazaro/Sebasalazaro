@@ -62,6 +62,6 @@ A **security engineer with a developer's brain** and a designer's eye. By day I 
 
 *"It would be such a waste to worry yourself on a day like this."*
 
-<img src="https://count.getloli.com/get/@Sebasalazaro?theme=rule34" alt="visitor counter" />
+<img src="https://count.getloli.com/@Sebasalazaro?theme=booru-lewd" alt="visitor counter" />
 
 </div>
